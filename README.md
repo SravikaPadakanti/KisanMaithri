@@ -76,9 +76,9 @@
 
 ---
 ### Home Page
-![Home Page](Screenshorts/home.png)
+![Home Page](Screenshorts/Home.png)
 ### Soil Advisor
-![Soil Advisor](Screenshorts/soiladvisor.png)
+![Soil Advisor](Screenshorts/soiladviser.png)
 
 ## 🚀 Setup Instructions
 
