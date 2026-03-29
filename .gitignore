@@ -1,0 +1,60 @@
+```gitignore
+# Python virtual environments
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python environment files
+pyvenv.cfg
+Include/
+Lib/
+Scripts/
+share/
+
+# Node modules
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Environment files
+.env
+backend/.env
+
+# ML / model files
+backend/models/
+models/
+*.gguf
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+*.pickle
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+```

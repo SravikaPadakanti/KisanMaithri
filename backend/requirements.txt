@@ -1,0 +1,17 @@
+flask
+flask-cors
+gunicorn
+deep-translator
+openai-whisper
+ffmpeg-python
+llama-cpp-python
+tensorflow
+keras
+numpy
+pillow
+scikit-learn
+joblib
+pandas
+requests
+pytesseract
+PyPDF2
