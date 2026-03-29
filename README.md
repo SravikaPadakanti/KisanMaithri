@@ -75,6 +75,10 @@
 - **Optional:** Upgrade `intentParser.js` from keyword matching to NLU (see docs)
 
 ---
+### Home Page
+![Home Page](Screenshorts/home.png)
+### Soil Advisor
+![Soil Advisor](Screenshorts/soiladvisor.png)
 
 ## 🚀 Setup Instructions
 
