@@ -25,24 +25,24 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    KisanMaithri Enhanced                         │
+│                    KisanMaithri Enhanced                    │
 ├──────────────────────────┬──────────────────────────────────┤
 │   FRONTEND (React/Vite)  │      BACKEND (Flask/Python)      │
-│                          │                                   │
+│                          │                                  │
 │  VoiceControl            │  /transcribe  ← Whisper STT      │
-│   ├── Whisper (offline)  │  /get-advice  ← Llama 3.1 8B    │
+│   ├── Whisper (offline)  │  /get-advice  ← Llama 3.1 8B     │
 │   └── Web Speech API     │  /detect      ← VGG13 38-class   │
-│                          │  /predict-yield ← ML yield model  │
+│                          │  /predict-yield ← ML yield model │
 │  FloatingAssistant       │  /soil-analysis ← Soil agent     │
 │   ├── Chat UI            │  /weather     ← Open-Meteo API   │
 │   ├── Voice input        │  /market      ← Price data       │
 │   └── Guardrail alerts   │  /guardrails-check               │
-│                          │                                   │
-│  SoilAdvisor page        │  Regulatory Guardrails:           │
-│   ├── Soil sliders       │   • Banned pesticide check        │
-│   ├── Yield predictor    │   • MSP (Min Support Price) info  │
-│   ├── Weather widget     │   • Govt scheme alerts            │
-│   └── Market prices      │   • KVK referral for edge cases   │
+│                          │                                  │
+│  SoilAdvisor page        │  Regulatory Guardrails:          │
+│   ├── Soil sliders       │   • Banned pesticide check       │
+│   ├── Yield predictor    │   • MSP (Min Support Price) info │
+│   ├── Weather widget     │   • Govt scheme alerts           │
+│   └── Market prices      │   • KVK referral for edge cases  │
 └──────────────────────────┴──────────────────────────────────┘
 ```
 ---
