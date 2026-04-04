@@ -45,6 +45,11 @@
 │   └── Market prices      │   • KVK referral for edge cases   │
 └──────────────────────────┴──────────────────────────────────┘
 ```
+---
+![System Architecture](KisanMaithri_System_Architecture.png)
+---
+## Flow of Our Project
+![Project Flow](KisanMaithri_FlowChart.png)
 
 ---
 
